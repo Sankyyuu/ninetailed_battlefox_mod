@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ninetail:blocks/ume_flower_block"
+  }
+}

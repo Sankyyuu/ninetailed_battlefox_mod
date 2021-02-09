@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ninetail:blocks/kami_yume_flower_block"
+  }
+}

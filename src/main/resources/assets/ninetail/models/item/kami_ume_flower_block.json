@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ninetail:items/kami_ume_flower_block"
+  }
+}
